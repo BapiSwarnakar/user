@@ -28,7 +28,7 @@ public class User {
     protected String first_name;
     protected String last_name;
     protected String email;
-    protected Number phone_no;
+    protected String phone_no;
     protected String password;
     @CreationTimestamp
     protected Date created_at;
